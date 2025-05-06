@@ -110,7 +110,11 @@ climate_indices
 beautifulsoup4==4.11.1
 spacy>=3.7.0
 textblob==0.15.3
-
+nltk
+gensim
+langdetect
+vaderSentiment
+textstat
 # AWS SDK
 botocore
 aiobotocore
